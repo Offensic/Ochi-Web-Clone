@@ -8,8 +8,9 @@ function landingpage() {
     return (
         <div data-scroll data-scroll-section data-scroll-speed="-.3" className='relative w-full h-full   pt-32 ' >
 
-            <div className='z-[999] fixed  right-5 bottom-10 -translate-y-1/2 origin-right rotate-90  text-white bg-[black] rounded-md p-2 '>
-                <p className='text-sm tracking-wide '>This site is a cloned project for showcasing my skills. <a href="https://ochi.design/" target='_blank' className='cursor-pointer hover:text-orange-300'>Visit the original site</a></p>
+            <div className='w-[250px] text-white bg-[black] p-4 z-[999] fixed  right-5 bottom-3 -translate-y-1/2 -right    rounded-md '>
+                <p>Note: 👇</p>
+                <p className='text-sm tracking-wide '>This site is a cloned project for showcasing my skills.  <a href="https://ochi.design/" target='_blank' className='cursor-pointer hover:text-orange-300'>Visit the original site </a></p>
             </div>
 
             <div className='px-[5vw] font-FoundersGrotesk pb-[35vw] sm:pb-[20vw] md:pb-[0vw] '>
