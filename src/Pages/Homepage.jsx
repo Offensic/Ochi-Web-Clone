@@ -10,7 +10,17 @@ import Footer from '../Component/Home Component/footer';
 function Homepage() {
     return (
         <>
-            <div className='w-[100%]   bg-[#F1F1F1] '>
+            <div className='w-[100%]   bg-[#F1F1F1] relative'>
+
+                <div className="w-[250px] text-white bg-black p-4 z-[1000] fixed right-5 bottom-10 rounded-md">
+                    <p>Note: 👇</p>
+                    <p className="text-sm tracking-wide">
+                        This site is a cloned project for showcasing my skills.
+                        <a href="https://ochi.design/" target="_blank" className="cursor-pointer hover:text-orange-300">
+                            Visit the original site
+                        </a>
+                    </p>
+                </div>
                 <Navbar />
                 <Landingpage />
                 <Marque />
