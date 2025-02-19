@@ -16,8 +16,8 @@ function Homepage() {
                     <p>Note: 👇</p>
                     <p className="text-sm tracking-wide">
                         This site is a cloned project for showcasing my skills Visit the original site
-                        <a href="https://ochi.design/" target="_blank" className="cursor-pointer hover:text-orange-300">
-                            Ochi
+                        <a href="https://ochi.design/" target="_blank" className="pl-1 cursor-pointer hover:text-orange-300">
+                             Ochi
                         </a>
                     </p>
                 </div>
