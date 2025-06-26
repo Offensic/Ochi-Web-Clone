@@ -19,6 +19,10 @@ function Homepage() {
                         <a href="https://ochi.design/" target="_blank" className="pl-1 cursor-pointer hover:text-orange-300">
                              Ochi
                         </a>
+                        <br />
+                        <a href="https://www.linkedin.com/in/zia-been/" target="_blank" className="pl-1 cursor-pointer hover:text-orange-300">
+                             Who made this !
+                        </a>
                     </p>
                 </div>
                 <Navbar />
