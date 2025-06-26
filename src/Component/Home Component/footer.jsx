@@ -55,9 +55,9 @@ function footer() {
             </div>
 
 
-            <div className='px-[2vw] py-[1vw] w-full h-full  flex justify-between flex-row'>
+            <div className='px-[2vw] py-[1vw] w-full h-full  flex justify-between flex-col  md:flex-row  '>
                 <h6 className='tracking-wider capitalize font-NeueMontreal  text-zinc-800 font-bold text-4xl cursor-pointer'>Ochi</h6>
-                <h6 className='tracking-wider capitalize font-NeueMontreal text-zinc-300 font-thin  text-base cursor-pointer'>© ochi design 2024. Legal Terms</h6>
+                <h6 className='tracking-wider capitalize font-NeueMontreal text-zinc-300 font-thin  text-base cursor-pointer mt-2 sm:mt-0  '>© ochi design 2024. Legal Terms</h6>
                 <h6 className='tracking-wider capitalize font-NeueMontreal  text-zinc-300 text-base font-thin  cursor-pointer'>Website by Obys</h6>
             </div>
         </div>
